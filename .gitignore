@@ -6,7 +6,3 @@ index.jsx
 package-lock.json
 package.json
 vite.config.js
-styles/*
-assets/*
-components/*
-pages/*
